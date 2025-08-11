@@ -725,7 +725,7 @@ function ucapan() {
     res = " 🌇"
   }
   if (time >= 18) {
-    res = "🌆 🌙"
+    res = "☑️ 🌙"
   }
   return res
 }
